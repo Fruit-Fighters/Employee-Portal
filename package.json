@@ -32,5 +32,12 @@
     "electron-squirrel-startup": "^1.0.0",
     "jwt-decode": "^3.1.2",
     "keytar": "^7.9.0"
+  },
+  "config": {
+    "forge": {
+      "packagerConfig": {
+        "icon": "/public/icons/icon"
+      }
+    }
   }
 }
