@@ -10,7 +10,7 @@ function createAppWindow() {
     }
   });
 
-  win.loadFile('./renderers/home.html');
+  win.loadFile('./renderers/index.html');
 
   win.on('closed', () => {
     win = null;

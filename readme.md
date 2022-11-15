@@ -9,3 +9,5 @@ NOTE: Please make a env-variables.json in the main directory with the informatio
     "apiIdentifier": "<Leave empty for now, will be used in future versions>"
   }
 ```
+
+NOTE: Please add passwords to the /renderers/passwords.html file
